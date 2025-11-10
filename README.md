@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Erdi
 
 🎓 Student developer from Germany  
-💻 Fullstack enthusiast (React, JavaScript, CSS)  
+💻 Fullstack enthusiast  
 🎮 Gamer | 🎵 Music lover | 🚀 Always learning
 
 ## 🌐 Connect With Me
