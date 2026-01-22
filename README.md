@@ -18,7 +18,4 @@
 
 ![aoyn1xw's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoyn1xw&show_icons=true&theme=radical&hide_border=true)
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aoyn1xw&theme=radical&hide_border=true)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aoyn1xw&layout=compact&theme=radical&hide_border=true)
