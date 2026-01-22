@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Erdi
+# Hi there 👋
 
 🎓 Student developer from Germany  
 💻 Fullstack enthusiast  
@@ -15,3 +15,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![aoyn1xw's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoyn1xw&show_icons=true&theme=radical&hide_border=true)
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aoyn1xw&theme=radical&hide_border=true)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aoyn1xw&layout=compact&theme=radical&hide_border=true)
