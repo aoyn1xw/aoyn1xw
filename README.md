@@ -18,6 +18,3 @@
 ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript 5.4](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![aoyn1xw's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoyn1xw&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aoyn1xw&layout=compact&theme=radical&hide_border=true)
