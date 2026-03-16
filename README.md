@@ -18,3 +18,6 @@
 ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript 5.4](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
+
+![Erdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoyn1xw&show_icons=true&theme=dark)
