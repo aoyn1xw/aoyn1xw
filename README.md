@@ -1,7 +1,7 @@
 # Hi 👋
 
 🎓 Student developer from Germany  
-💻 Fullstack enthusiast dev
+💻 Fullstack dev
 
 ## 🌐 Connect With Me
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=chrome&logoColor=white)](https://ayon1xw.me)
